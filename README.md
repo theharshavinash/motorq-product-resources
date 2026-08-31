@@ -1,68 +1,46 @@
 # Motorq — Product Management Hiring Resources
 
-This is the public candidate-facing repository for Motorq's Product Management hiring. It contains the interview process, preparation resources, a practice dataset with no answer key, and insight into what the role looks like.
+This is the public candidate-facing repository for Motorq's Product Management hiring.
 
-Motorq is a connected-vehicle data platform for fleets. We operate across the US and India, and we are opening PM hiring for the first time: both campus interns (2028 batch) and experienced product managers. One track, two evaluation bars, same interview loop.
+Motorq is a connected-vehicle data platform for fleets. We operate across the US and India, and we are opening PM hiring for the first time: both campus interns (2028 batch) and experienced product managers. **No coding test. No DSA. AI tools allowed and expected.**
 
-**No coding test. No DSA. AI tools allowed and expected.**
-
----
-
-## The process at a glance
-
-| Stage | Format | Time | Tests |
-|---|---|---|---|
-| **Application** | 3 graded written answers | 10–20 min | Clarity of thought, evidence of building |
-| **Product sense** | Live case, unfamiliar B2B user | 60 min | Problem framing, customer empathy, scope |
-| **Working session** | Data exploration + AI prototype + one-pager | ~2.5 h | Analytical judgment, AI-assisted execution, narration |
-| **Technical collaboration** | Live with engineer | 60 min | Fluency with tradeoffs, feasibility instincts |
-| **Ownership & leadership** | Behavioural, past-tense | 45 min | Drive, judgment, values |
-
-We score against six dimensions: problem framing, data judgment, AI building, technical fluency, communication, and ownership. The interview does not test automotive or telematics knowledge — we supply the domain context. All branches welcome; CGPA is a coarse floor, not a ranking key.
+We are looking for people who can frame ambiguous problems, move through data without getting lost, build judgment, and ship decisions that work. There is no single path to PM, but we have built prep materials and a real practice exercise so you can see what we value and rehearse before you interview.
 
 ---
 
-## Where to start
+## How to prepare
 
-**If you have one week:** Read [`prep/resources.md`](prep/resources.md) (skip the books), work through the practice dataset in [`practice/`](practice/), and watch a few full mocks from Exponent (linked in [`prep/playlists.md`](prep/playlists.md)).
-
-**If you have a month:** Start with [`prep/resources.md`](prep/resources.md). Work deeply on the areas where you are weakest. Do the full practice dataset twice with different tools. Read one book from [`prep/books.md`](prep/books.md) — *Inspired* if you must pick one. Watch Exponent mocks and Lenny's Podcast over the weeks.
+- **Rough principles:** We care about clarity of thought, evidence you have built things, ability to frame problems, and judgment under uncertainty. Domain knowledge in vehicles or data platforms is not expected — we teach that.
+- **Where to start:** [`prep/resources.md`](prep/resources.md) has guides by skill area. [`prep/books.md`](prep/books.md) is tiered (before vs after you join). For engineers, [`prep/engineers-to-pm.md`](prep/engineers-to-pm.md) is direct about the reframes that matter.
+- **Practice:** Work through [`practice/`](practice/) with real Kaggle datasets. This is how the data-exploration round works. No answer key; the point is noticing what you can defend.
+- **Video:** Three playlists in [`prep/playlists.md`](prep/playlists.md) cover the space. Exponent's mocks show the live-interview format.
 
 ---
 
-## Index
+## Resources
 
-### Process
+**Preparation guides**
+- [`prep/resources.md`](prep/resources.md) — by skill area, in interview order
+- [`prep/books.md`](prep/books.md) — tiered reading list
+- [`prep/engineers-to-pm.md`](prep/engineers-to-pm.md) — for engineers moving into product
+- [`prep/playlists.md`](prep/playlists.md) — three video channels
 
-- [`process/interview-process.md`](process/interview-process.md) — the five stages, what happens in each
-- [`process/what-we-evaluate.md`](process/what-we-evaluate.md) — the six dimensions and what strong looks like
-- [`process/faq.md`](process/faq.md) — coding test? AI allowed? automotive knowledge? CGPA? reapplication?
+**Process & FAQ**
+- [`process/interview-process.md`](process/interview-process.md) — what to expect
+- [`process/what-we-evaluate.md`](process/what-we-evaluate.md) — what strong looks like
+- [`process/faq.md`](process/faq.md) — common questions
 
-### Preparation
-
-- [`prep/resources.md`](prep/resources.md) — organised by interview round: written thinking, product sense, data judgment, metrics, AI building, technical fluency, ownership
-- [`prep/books.md`](prep/books.md) — tiered by when to read them (before vs after you join)
-- [`prep/engineers-to-pm.md`](prep/engineers-to-pm.md) — if you are moving from engineering
-- [`prep/playlists.md`](prep/playlists.md) — three video channels worth your time
-
-### Practice
-
-- [`practice/`](practice/) — real public datasets and working-session exercise (no answer key)
-  - [`practice/brief.md`](practice/brief.md) — two scenarios, links to real Kaggle datasets
-  - [`practice/one-pager-template.md`](practice/one-pager-template.md) — exact format we ask for in the interview
-
-### Inside the role
-
-- [`life-at-motorq/day-in-the-life.md`](life-at-motorq/day-in-the-life.md) — what a day looks like (scaffolded, needs a real PM's voice)
-- [`life-at-motorq/what-pms-own.md`](life-at-motorq/what-pms-own.md) — four surface areas: OEM integrations, data reliability, analytics, fleet workflows (scaffolded)
+**Practice**
+- [`practice/brief.md`](practice/brief.md) — two real-data scenarios from Kaggle
+- [`practice/one-pager-template.md`](practice/one-pager-template.md) — the format we use
 
 ---
 
 ## Notes
 
-- The practice datasets are real public data from Kaggle. The interview data is different (a different domain scenario). There is no answer key anywhere, and that is intentional — the value is in noticing what you can and cannot defend when you are done.
-- We publish what we value (the six dimensions, the process shape) because it raises applicant quality more than it enables gaming. Internal anchors, thresholds, and scoring scales stay ours.
-- No real Motorq customer data, OEM names, or pricing appear in our prep materials.
-- Questions? Email **careers-india@motorq.com** with your college name as the subject.
+- **Practice is real data:** We use public Kaggle datasets so you are working with actual messy data, not seeded scenarios. The interview round is a different domain, so there is no pattern-matching possible.
+- **No answer key:** Intentional. The value is learning what you can defend, not matching a key. Check your own work.
+- **No Motorq secrets:** Nothing here is Motorq customer data, OEM names, pricing, or internal metrics.
+- **Questions:** Email **careers-india@motorq.com** with your college name as the subject.
 
 **Last updated:** 31 Aug 2026
