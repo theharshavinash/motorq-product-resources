@@ -47,10 +47,9 @@ We score against six dimensions: problem framing, data judgment, AI building, te
 
 ### Practice
 
-- [`practice/`](practice/) — a real dataset with no answer key, two different scenarios you can work end-to-end
-  - [`practice/brief.md`](practice/brief.md) — the two prompts
-  - [`practice/one-pager-template.md`](practice/one-pager-template.md) — exact format we ask for
-  - [`practice/data/`](practice/data/) — EV-charging network and cold-chain logistics scenarios
+- [`practice/`](practice/) — real public datasets and working-session exercise (no answer key)
+  - [`practice/brief.md`](practice/brief.md) — two scenarios, links to real Kaggle datasets
+  - [`practice/one-pager-template.md`](practice/one-pager-template.md) — exact format we ask for in the interview
 
 ### Inside the role
 
@@ -61,9 +60,9 @@ We score against six dimensions: problem framing, data judgment, AI building, te
 
 ## Notes
 
-- Everything here is synthetic. No real customer names, vehicle data, OEM names, or pricing.
-- The practice dataset is not the interview dataset. There is no answer key anywhere, and intentionally so — the value is in noticing what you can and cannot defend when you are done.
+- The practice datasets are real public data from Kaggle. The interview data is different (a different domain scenario). There is no answer key anywhere, and that is intentional — the value is in noticing what you can and cannot defend when you are done.
 - We publish what we value (the six dimensions, the process shape) because it raises applicant quality more than it enables gaming. Internal anchors, thresholds, and scoring scales stay ours.
+- No real Motorq customer data, OEM names, or pricing appear in our prep materials.
 - Questions? Email **careers-india@motorq.com** with your college name as the subject.
 
 **Last updated:** 31 Aug 2026
